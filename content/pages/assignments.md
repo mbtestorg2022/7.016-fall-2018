@@ -4,14 +4,75 @@ title: Assignments
 uid: 6ed6bdac-cda3-a3b7-1732-ac482dac199c
 ---
 
-| Problem sets | SOLUTIONS |
-| --- | --- |
-| [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps1) | [Solution to Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps1_soln) |
-| [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps2) | [Solution to Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps2_soln) |
-| [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps3) | [Solution to Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps3_soln) |
-| [Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps4) | [Solution to Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps4_soln) |
-| [Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps5) | [Solution to Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps5_soln) |
-| [Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps6) | [Solution to Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps6_soln) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Problem sets
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps1)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solution to Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps1_soln)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solution to Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps2_soln)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps3)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solution to Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps3_soln)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps4)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solution to Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps4_soln)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps5)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solution to Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps5_soln)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps6)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solution to Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps6_soln)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 News Brief or Project
 ---------------------

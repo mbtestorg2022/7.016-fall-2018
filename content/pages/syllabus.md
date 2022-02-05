@@ -45,10 +45,81 @@ Grading
 
 Your overall course grade will depend on the following components:
 
-| ACTIVITIES | TOTAL POINTS | % OF Overall GRADES |
-| --- | --- | --- |
-| Three Term Exams (100 points each) | 300 | 51% |
-| Five Problem Sets (20 points each) | 100 | 15% |
-| News Brief Proposal | 20 | 4% |
-| Comprehensive Final Exam | 200 | 30% |
-| **Total** | **620** | **100%**
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+TOTAL POINTS
+{{< thclose >}}
+{{< thopen >}}
+% OF Overall GRADES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three Term Exams (100 points each)
+{{< tdclose >}}
+{{< tdopen >}}
+300
+{{< tdclose >}}
+{{< tdopen >}}
+51%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Five Problem Sets (20 points each)
+{{< tdclose >}}
+{{< tdopen >}}
+100
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+News Brief Proposal
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+4%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Comprehensive Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+200
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Total**
+{{< tdclose >}}
+{{< tdopen >}}
+**620**
+{{< tdclose >}}
+{{< tdopen >}}
+**100%**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
