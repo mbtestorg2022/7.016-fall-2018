@@ -16,7 +16,7 @@ Prerequisites
 
 There are no formal prerequisites for this course, but we do presuppose high-school-level biology and chemistry (especially familiarity with the fundamental aspects of chemical structure).
 
-Before taking this course, you may want to review _[Pre-7.01 Getting up to Speed in Biology](/resources/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019)_, a self-paced course designed to help prepare students for their first college-level biology class.
+Before taking this course, you may want to review _[Pre-7.01 Getting up to Speed in Biology](/courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019)_, a self-paced course designed to help prepare students for their first college-level biology class.
 
 Textbook
 --------
